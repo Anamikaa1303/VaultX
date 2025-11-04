@@ -1,4 +1,4 @@
-🛡️ VaultX – Password Manager
+🧠 VaultX – Password Manager
 
 VaultX is a secure and modern Password Manager web application built using the MERN stack — MongoDB, Express.js, React, and Node.js — and styled with Tailwind CSS.
 
@@ -22,10 +22,6 @@ The app also leverages localStorage to maintain persistence — keeping your sav
 🧱 Backend support with Express.js and MongoDB
 
 💡 Automatically masks and reveals passwords securely 
-
-🚀 Live Preview 
-
-![VaultX Password Manager Preview](src/assets/Password.png)
 
 
 🧩 Tech Stack
